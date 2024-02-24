@@ -36,7 +36,7 @@ header-includes:
   * https://github.com/xuwcypcy/study_2023-2024_mathmod
 :::
 ::: {.column width="30%"}
-![vinh](23.jpg)
+![vinh](https://drive.google.com/file/uc?id=1XZMang2biYUe5V3XuB_JJSyleTCDJH8a)
 :::
 ::::::::::::::
 # Цель работы
