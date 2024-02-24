@@ -1,0 +1,71 @@
+<h1 id="информация">Информация</h1>
+<div class="columns" data-align="center">
+    <div class="column" style="width:70%;">
+        <ul>
+            <li>Ле Тиен Винь</li>
+            <li>студент</li>
+            <li>Российский университет дружбы народов</li>
+            <li><a href="mailto:1032215241@rudn.ru">1032215241@pfur.ru</a></li>
+            <li>https://github.com/xuwcypcy/study_2023-2024_mathmod</li>
+        </ul>
+    </div>
+    <div class="column" style="width:30%;">
+        <figure>
+            <img src="23.jpg" alt="vinh" />
+            <figcaption aria-hidden="true">vinh</figcaption>
+        </figure>
+    </div>
+</div>
+<h1 id="цель-работы">Цель работы</h1>
+<p>Изучаем модель боевых действий и построим графики изменения численности войск армии Х и армии У для каждого случая </p>
+<h1 id="задание">Задание</h1>
+<p>Между страной Х и страной У идет война. Численность состава войск исчисляется от начала войны, и являются временными функциями <span class="math inline"><em>x</em>(<em>t</em>)</span> и <span class="math inline"><em>x</em>(<em>t</em>)</span>. В начальный
+    момент времени страна Х имеет армию численностью 25000 человек, а в распоряжении страны У армия численностью в 13000 человек. Для упрощения модели считаем, что коэффициенты <span class="math inline"><em>a</em>, <em>b</em>, <em>c</em>, <em>d</em></span>    постоянны. Также считаем <span class="math inline"><em>P</em>(<em>t</em>)</span> и <span class="math inline"><em>Q</em>(<em>t</em>)</span> непрерывные функции.
+</p>
+<h1 id="section"></h1>
+<p>Постройте графики изменения численности войск армии Х и армии У для следующих случаев:</p>
+<ol type="1">
+    <li>Модель боевых действий между регулярными войсками</li>
+</ol>
+<p><span class="math inline">$\frac{dx}{dt} = -0,41x(t) - 0,83y(t) +
+sin(t+3)$</span></p>
+<p><span class="math inline">$\frac{dy}{dt} = -0,29x(t) - 0,63y(t) +
+cos(t+3)$</span></p>
+<h1 id="section-1"></h1>
+<ol start="2" type="1">
+    <li>Модель ведение боевых действий с участием регулярных войск и партизанских отрядов</li>
+</ol>
+<p><span class="math inline">$\frac{dx}{dt} = -0,33x(t) - 0,88y(t) +
+sin(t)$</span></p>
+<p><span class="math inline">$\frac{dy}{dt} = -0,44x(t)y(t) - 0,77y(t) +
+cos(3t)$</span></p>
+<h1 id="выполнение-задания">Выполнение задания</h1>
+<p>## 1. Первый случай:</p>
+<p><span class="math inline">$\frac{dx}{dt} = -0,41x(t) - 0,83y(t) +
+sin(t+3)$</span></p>
+<p><span class="math inline">$\frac{dy}{dt} = -0,29x(t) - 0,63y(t) +
+cos(t+3)$</span></p>
+<p>Мы задавать параметры <span class="math inline"><em>a</em>, <em>b</em>, <em>c</em>, <em>h</em></span> для коеффициентов в функции графика моделя, получаем</p>
+<p><span class="math inline">$\frac{dx}{dt} = -ax(t) - by(t) + sin(t+7)
++ 1$</span></p>
+<p><span class="math inline">$\frac{dy}{dt} = -cx(t) - hy(t) + cos(t+4)
++ 1$</span></p>
+<p>где <span class="math inline"><em>a</em> = 0, 41, <em>h</em> = 0, 83</span> - константа, характеризующая степень влияния различных факторов на потери, и <span class="math inline"><em>b</em> = 0, 63, <em>c</em> = 0, 29</span> - эффективность боевых действий
+    армии. И мы получим такой результат: В результате мы увидем, что армия X выигрывает, а численность армии Y уменьшается до нуля после 2.5 дней.</p>
+<p><img src="https://drive.google.com/uc?id=1dNg3yzsuDwUzNqtiic-7e6vtLv7iH4uT" alt="Графики изменения численности войск армии Х и армии У в модели боевых действий между регулярными войсками" />
+</p>
+<h1 id="выполнение-задания-1">Выполнение задания</h1>
+<h2 id="второй-случай">2.Второй случай:</h2>
+<p>Модель ведение боевых действий с участием регулярных войск и партизанских отрядов</p>
+<p><span class="math inline">$\frac{dx}{dt} = -0,33x(t) - 0,88y(t) +
+sin(t)$</span></p>
+<p><span class="math inline">$\frac{dy}{dt} = -0,44x(t)y(t) - 0,77y(t) +
+cos(3t)$</span></p>
+<p>Мы делаем также первый случай, мы задаём параметры <span class="math inline"><em>a</em>, <em>b</em>, <em>c</em>, <em>h</em></span> для коеффициентов в функции графика моделя, получаем: <span class="math inline">$\frac{dx}{dt} = -ax(t) - by(t) + + sin(t)$</span>
+    <span class="math inline">$\frac{dy}{dt} = -cx(t)y(t) - hy(t) +
+cos(3t)$</span> где <span class="math inline"><em>a</em> = 0, 33, <em>h</em> = 0, 77</span> - константа, характеризующая степень влияния различных факторов на потери, и <span class="math inline"><em>b</em> = 0, 88, <em>c</em> = 0, 44</span> - эффективность
+    боевых действий армии. И с помошью Scilab мы можем построить численное решение задачи, введём код: И мы получим такой результат: В результате мы увидем, что армия X выигрывает, а численность армии Y уменьшается до нуля после 7,5 дней.</p>
+<p><img src="https://drive.google.com/uc?id=1s4idNIniyk9AXk3YeENYQSFeXo_-8PXj" alt="Графики изменения численности войск армии Х и армии У в модели боевых действий с участием регулярных войск и партизанских отрядов" />
+</p>
+<h1 id="iv.-вывод">IV. Вывод</h1>
+<p>После лабораторной работе, я познакомился с моделей боевых действий, и приобрел практические навыки по построению график изменения численности войск армии Х и армии У.</p>
