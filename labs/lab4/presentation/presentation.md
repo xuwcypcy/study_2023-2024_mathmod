@@ -233,3 +233,5 @@ $\ddot{x}=-4Acos(2t)-4Bsin(2t)$
 
 После лабораторной работы, я познакомился с моделей гармонических колебаний, получил навыки по решению уравнения гармонического осциллятора и приобрел построить фазовый портрет с помощью Scilab.
 # Список литература ссыка 
+https://vi.wikipedia.org/wiki/Ph%C6%B0%C6%A1ng_tr%C3%ACnh_vi_ph%C3%A2n
+chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/pages/pdf/web/viewer.html?file=https%3A%2F%2Ftuongphuongtn.files.wordpress.com%2F2011%2F01%2Fbai-giang-ptvp-nam-2010-moi_xuan.pdf
