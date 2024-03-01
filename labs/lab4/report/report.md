@@ -321,3 +321,8 @@ xgrid();
 # IV. Вывод
 
 После лабораторной работы, я познакомился с моделей гармонических колебаний, получил навыки по решению уравнения гармонического осциллятора и приобрел построить фазовый портрет с помощью Scilab.
+
+#V. Список литература ссыка 
+1. https://vi.wikipedia.org/wiki/Ph%C6%B0%C6%A1ng_tr%C3%ACnh_vi_ph%C3%A2n
+2. https://mathdf.com/dif/vi/
+3. blob:chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/7232cf15-3332-4e09-99cf-363cce66b33b
