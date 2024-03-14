@@ -112,7 +112,7 @@ hl=legend(['S(t)';'I(t)';'R(t)']);
 ```
 Мы получим результат:
 
-![График первого случая](https://drive.google.com/ucc?id=1fG8XiwIjp9I8z9rOA7KetXdSKREpup4E)
+![График первого случая](https://drive.google.com/uc?id=1fG8XiwIjp9I8z9rOA7KetXdSKREpup4E)
 
 # Выполнение задания
 ## С помощью Scilab построим график случая: $I(t) \le I^*$
