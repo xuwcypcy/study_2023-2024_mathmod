@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёт по лабораторной работе №8"
 subtitle: "Вариант 12"
-author: "Ле Тиен Винь"
+author: "Ле Тиен Винь" 
 
 ## Generic otions
 lang: ru-RU
