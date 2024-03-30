@@ -6,7 +6,7 @@ subtitle: "Вариант 2"
 author: "Ле Тиен Винь"
 institute:
   - Российский университет дружбы народов, Москва, Россия
-date: 23- 03- 2024
+date: 30- 03- 2024
 
 ## i18n babel
 babel-lang: russian
