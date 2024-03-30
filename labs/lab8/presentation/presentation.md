@@ -187,3 +187,8 @@ t=0:0.1:30; // временной промежуток
 # IV. Вывод
 
 После лабораторной работы я познакомился с моделью конкуренции двух фирм и получил привывки построения графиков изменения оборотных средств фирмы 1 и фирмы 2.
+
+# список литературы
+
+chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/pages/pdf/web/viewer.html?file=https%3A%2F%2Fcore.ac.uk%2Fdownload%2Fpdf%2F75999528.pdf
+chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/pages/pdf/web/viewer.html?file=https%3A%2F%2Fwww.keldysh.ru%2Fpapers%2F2006%2Fsource%2Fprep2006_64.pdf
